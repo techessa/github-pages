@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MagnoSens LLC | Advanced Sensor Technology</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #003366; color: white; text-align: center; padding: 20px; }
+        nav { background: #0055A4; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 40px; max-width: 900px; margin: auto; }
+        footer { background: #003366; color: white; text-align: center; padding: 20px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MagnoSens LLC</h1>
+        <p>Revolutionizing Infrastructure Monitoring with Advanced Sensors</p>
+    </header>
+    <nav>
+        <a href="#technology">Technology</a>
+        <a href="#market">Market Opportunity</a>
+        <a href="#funding">Funding Needs</a>
+        <a href="#team">Our Team</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="technology">
+        <h2>Our Technology</h2>
+        <p>MagnoSens LLC is developing cutting-edge electromagnetic wave-guided sensors for real-time infrastructure monitoring. Our technology enables data-driven maintenance and rehabilitation planning for highways and bridges by providing real-time volume fraction analysis, including water content, solids, and voids.</p>
+        <p>Unlike conventional sensors that focus on single-property measurements, our solution integrates multi-parameter sensing, making it an ideal tool for quality control and quality assurance (QC/QA) in new infrastructure construction.</p>
+    </section>
+    <section id="market">
+        <h2>Market Opportunity</h2>
+        <p>Infrastructure maintenance and rehabilitation remain a top priority in the U.S., with the Federal Highway Administration allocating billions for improvements. Our solution aligns with FHWA’s Nondestructive Evaluation (NDE) Roadmap, addressing key industry challenges and offering a scalable solution for real-time structural health monitoring.</p>
+        <p>With over 46,000 structurally deficient bridges and a $786 billion investment gap in road maintenance, the demand for innovative sensor technology is growing rapidly.</p>
+    </section>
+    <section id="funding">
+        <h2>Funding Needs</h2>
+        <p>We have already applied for <strong>NSF SBIR</strong> funding to advance this technology and are using the same core physics solution to develop a shrinkage measurement device for concrete, for which we have applied to the <strong>USDOT SBIR</strong> program.</p>
+        <p>To complement these efforts, we are seeking <strong>pre-seed funding</strong> to accelerate sensor development and support key operational and pilot project planning needs that extend beyond our grant-funded research.</p>
+    </section>
+    <section id="team">
+        <h2>Our Team</h2>
+        <p><strong>Dr. Issa M. Issa</strong> - Founder & Principal Investigator</p>
+        <p>Dr. Issa has extensive expertise in civil engineering, electromagnetic sensing, and infrastructure monitoring. His research has contributed to developing innovative solutions for concrete shrinkage measurement and transportation infrastructure maintenance.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Interested in learning more about investment opportunities with MagnoSens LLC?</p>
+        <p>Email: <strong>[Your Email]</strong></p>
+        <p>LinkedIn: <strong>[Your LinkedIn]</strong></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 MagnoSens LLC. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
